@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/:path*",
+            "destination": "https://gridiq-2542.onrender.com/api/:path*"
+        }
+    ]
+}
